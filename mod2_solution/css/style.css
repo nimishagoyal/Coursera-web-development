@@ -21,9 +21,9 @@ h1{
 #item3{
   background-color: turquoise;
 }
-.text{
+text{
   position: relative;
-  top: 22px;
+  /*top: 22px;*/
 }
 #item1, #item2, #item3{
   position: relative;
